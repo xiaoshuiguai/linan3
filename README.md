@@ -10,7 +10,7 @@
 
 -------------------
 
-[TOC]
+
 
 ## Markdown简介
 
@@ -44,17 +44,6 @@ $$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 | Phone     |   12 USD |  12  |
 | Pipe      |    1 USD | 234  |
 
-### 流程图
-```flow
-st=>start: Start
-e=>end
-op=>operation: My Operation
-cond=>condition: Yes or No?
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
 
 以及时序图:
 
